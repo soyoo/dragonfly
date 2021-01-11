@@ -1,4 +1,4 @@
-# neure
+# octopus(八爪鱼)
 A iot edge gateway
 
 # go libraries
