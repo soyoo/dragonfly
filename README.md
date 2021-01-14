@@ -1,6 +1,10 @@
 # octopus(八爪鱼)
 A iot edge gateway
 
+# networking
+
+evio: https://github.com/tidwall/evio
+
 # go libraries
 opc ua: https://github.com/gopcua/opcua
 
