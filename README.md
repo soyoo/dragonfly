@@ -1,5 +1,5 @@
 # octopus(八爪鱼)
-A iot edge gateway
+A mqtt broker for edge device.
 
 # networking
 
