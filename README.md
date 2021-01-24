@@ -1,5 +1,5 @@
 # octopus(八爪鱼)
-A mqtt broker for edge device.
+A lightweight MQTT broker for edge device.
 
 # networking
 
