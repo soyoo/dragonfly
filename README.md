@@ -1,4 +1,4 @@
-# octopus(八爪鱼)
+# Sprouts(豆芽菜)
 A lightweight MQTT broker for edge device.
 
 # networking
