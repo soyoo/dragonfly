@@ -1,4 +1,4 @@
-# Sprouts(豆芽菜)
+# Sprouts
 A lightweight MQTT broker for edge device.
 
 # networking
