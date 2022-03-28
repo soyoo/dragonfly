@@ -1,5 +1,5 @@
-# Cooper
-A lightweight MQTT broker for edge device.
+# Dragonfly
+A lightweight edge devices access broker.
 
 # networking
 
@@ -11,3 +11,7 @@ opc ua: https://github.com/gopcua/opcua
 modbus: https://github.com/goburrow/modbus
 
 mqtt: https://github.com/256dpi/gomqtt
+
+DL/T645-1997:
+
+DL/T645-2007: 
