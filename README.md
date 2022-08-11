@@ -13,6 +13,8 @@ modbus: https://github.com/goburrow/modbus
 
 mqtt: https://github.com/256dpi/gomqtt
 
+GoDS(Go Data Structures): git@github.com:emirpasic/gods.git
+
 DL/T645-1997:
 
 DL/T645-2007: 
