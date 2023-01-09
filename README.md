@@ -2,6 +2,7 @@
 A lightweight edge devices access broker.
 
 # networking
+gnet: https://github.com/panjf2000/gnet
 
 evio: https://github.com/tidwall/evio
 
@@ -19,3 +20,5 @@ GoDS(Go Data Structures): git@github.com:emirpasic/gods.git
 DL/T645-1997:
 
 DL/T645-2007: 
+
+logrus: https://github.com/sirupsen/logrus
