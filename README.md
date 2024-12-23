@@ -1,4 +1,4 @@
-# Edgeless
+# firefly
 A lightweight edge devices access broker.
 
 # networking
