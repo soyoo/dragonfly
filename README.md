@@ -11,6 +11,7 @@ connect-go: https://github.com/bufbuild/connect-go
 
 # go libraries
 go-serial: git@github.com:bugst/go-serial.git
+
 opc ua: https://github.com/gopcua/opcua
 
 modbus: https://github.com/goburrow/modbus
